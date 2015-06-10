@@ -1,0 +1,9 @@
+footer {
+    background: #333;
+    height: 50px;
+}
+footer p {
+    color: #ffffff;
+    font-weight: bold;
+    margin-top: 1.3%;
+}
